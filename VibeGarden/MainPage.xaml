@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VibeGardeb.MainPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundImageSource="background.png">
+
+    <Grid>
+
+        <Grid x:Name="GrassLayer"
+           ZIndex="0"
+           InputTransparent="True"
+           HorizontalOptions="Fill"
+           VerticalOptions="End"
+           HeightRequest="75"
+           ColumnDefinitions="*,*,*,*,*,*,*,*,*,*">
+
+        </Grid>
+        
+        <VerticalStackLayout  x:Name="root">
+
+
+
+            <Grid
+             BackgroundColor="Transparent"
+             HeightRequest="80"
+             Margin="10,7,10,0"
+              
+             x:Name="UI"
+             ZIndex="1">
+
+                <Image
+                 Source="stillcoin.png"
+                 HeightRequest="60"
+                 WidthRequest="60"
+                 HorizontalOptions="Start"
+                 VerticalOptions="Center" />
+
+                <Label
+                 Text="100"
+                 TextColor="White"
+                 FontSize="24"
+                 x:Name="coinLabel"
+                 FontFamily="Minecraft"
+                 HorizontalOptions="Start"
+                 VerticalOptions="Center"
+                 Margin="65,0,0,0" />
+
+
+                <Grid x:Name="flowerInfo"
+                   WidthRequest="130"
+                   HeightRequest="20"
+                   BackgroundColor="Transparent"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   RowDefinitions="Auto,Auto"
+                   RowSpacing="5">
+                </Grid>
+
+                <ImageButton
+                 Source="shop.png"
+                 WidthRequest="80"
+                 HeightRequest="80"
+                 HorizontalOptions="End"
+                 VerticalOptions="Center"
+                 Clicked="ShopButton_Clicked"
+          
+                />
+
+            </Grid>
+
+
+            <Frame
+             WidthRequest="350"
+             HeightRequest="260"
+             Margin="0,50,0,0"
+             BackgroundColor="Transparent"
+             BorderColor="Transparent"
+             Padding="0">
+
+                <Grid x:Name="FlowerPot"    
+                 WidthRequest="350"
+                 HeightRequest="280"
+                 Margin="0,0,0,0">
+
+
+
+                    <Image
+                     Source="betterflowerpot.png"
+                     Aspect="AspectFill"
+                     HeightRequest="175"/>
+
+
+                    <Grid
+                        x:Name="FlowerGrid"
+                        WidthRequest="350"
+                        HeightRequest="175"
+                        HorizontalOptions="Center"
+                        RowDefinitions="*,*"
+                        ColumnDefinitions="*,*,*,*,*"
+                        Padding="17,20,12,46"
+                        TranslationY="-25" />
+
+                </Grid>
+
+            </Frame>
+
+
+            <Grid
+                 WidthRequest="300"
+                 HeightRequest="135"
+                 Margin="0,-45,0,0">
+
+
+                <Image
+                 Source="optionsboard.png"
+                 Aspect="AspectFit" 
+                 Scale="1.1"/>
+
+                <HorizontalStackLayout
+                 HorizontalOptions="Center"
+                 VerticalOptions="Center"
+                 Spacing="20">
+
+
+                    <ImageButton
+                     Source="wateringcan.png"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     Padding="0"
+                     x:Name="wateringcanButton"
+                     Clicked="WaterButton_Clicked"
+                     />
+
+
+                    <ImageButton
+                     Source="shovel.png"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     Padding="0"
+                     x:Name="shovelButton"
+                     Clicked="ShovelButton_Clicked"
+                    />
+
+
+                    <ImageButton
+                     Source="sprout.png"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     Padding="0"
+                     x:Name="plantButton"
+                     Clicked="PlantButton_Clicked"
+                    />
+
+                </HorizontalStackLayout>
+
+
+
+            </Grid>
+
+            <Grid
+                x:Name="Inventory"
+                IsVisible="False"
+                IsEnabled="False"
+            
+                Margin="0,5,0,0"
+                WidthRequest="280"
+                >
+
+                <Image
+                 Source="inventory.png"
+                 Aspect="AspectFit"
+                 Scale="1.1"
+                 HorizontalOptions="Fill"
+                 VerticalOptions="Fill" />
+
+                <ScrollView HeightRequest="200"
+                     WidthRequest="530">
+                    
+                    <VerticalStackLayout
+                     x:Name="InventoryLayout"
+                     Spacing="5"
+                     Padding="0,20,0,0"
+                     WidthRequest="230"/>
+                    
+                </ScrollView>
+
+
+            </Grid>
+
+            <Grid
+                 x:Name="ShopLayout"
+                 IsVisible="False"
+                 IsEnabled="False"
+                 ZIndex="100"
+                 WidthRequest="330"
+                 HeightRequest="250"
+                 Margin="0,-5,0,0">
+
+                <Image
+                 Source="shoplayout.png"
+                 Aspect="AspectFit"
+                 WidthRequest="290"
+                 
+                 InputTransparent="True"
+                     Margin="0,0,0,0"/>
+
+                <ScrollView
+                     Margin="20,32,20,20"
+                     TranslationY="13"
+                        HeightRequest="170"
+                     VerticalScrollBarVisibility="Never">
+
+                    <VerticalStackLayout
+                     x:Name="ShopItemsLayout"
+                     Spacing="5"
+                     Padding="0" />
+
+                </ScrollView>
+
+
+
+            </Grid>
+
+
+
+
+        </VerticalStackLayout>
+        
+
+        
+    </Grid>
+
+   
+    
+    
+
+</ContentPage>

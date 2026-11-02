@@ -1,0 +1,4 @@
+C:\Maui garden app\VibeGardeb\bin\Release\net8.0-android\android-arm64\publish\com.companyname.vibegardeb-Signed.aab
+C:\Maui garden app\VibeGardeb\bin\Release\net8.0-android\android-arm64\publish\com.companyname.vibegardeb.aab
+C:\Maui garden app\VibeGardeb\bin\Release\net8.0-android\android-arm64\publish\com.companyname.vibegardeb-Signed.apk
+C:\Maui garden app\VibeGardeb\bin\Release\net8.0-android\android-arm64\publish\_Microsoft.Android.Resource.Designer.dll

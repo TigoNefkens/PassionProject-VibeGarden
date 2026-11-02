@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Maui garden app\\VibeGardeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\services\\gamedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:services\\gamedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\services\\packprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:services\\packprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flowerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flowerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\inventoryflowerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\inventoryflowerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\services\\flowerpackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:services\\flowerpackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flowerrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flowerrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flowerpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flowerpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\vibegardeb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:vibegardeb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\models\\flowerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:models\\flowerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\services\\flowermoneyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:services\\flowermoneyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\services\\flowerpackanimationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:services\\flowerpackanimationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tigon\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\widgetreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\widgetreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\resources\\layout\\garden_widget.axml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\resources\\layout\\garden_widget.axml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|c:\\maui garden app\\vibegardeb\\platforms\\android\\resources\\layout\\garden_widget.axml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{9348D76F-2CDB-4B60-8403-2DCCA339E06F}|VibeGardeb.csproj|solutionrelative:platforms\\android\\resources\\layout\\garden_widget.axml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameDataService.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Services\\GameDataService.cs",
+              "RelativeDocumentMoniker": "Services\\GameDataService.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Services\\GameDataService.cs",
+              "RelativeToolTip": "Services\\GameDataService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:10:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerProvider.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerProvider.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerProvider.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerProvider.cs",
+              "RelativeToolTip": "Models\\FlowerProvider.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T13:37:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-22T14:40:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackProvider.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Services\\PackProvider.cs",
+              "RelativeDocumentMoniker": "Services\\PackProvider.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Services\\PackProvider.cs",
+              "RelativeToolTip": "Services\\PackProvider.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:58:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryFlowerObject.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\InventoryFlowerObject.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryFlowerObject.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\InventoryFlowerObject.cs",
+              "RelativeToolTip": "Models\\InventoryFlowerObject.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:08:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAADwvxgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T08:20:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlowerType.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerType.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerType.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerType.cs",
+              "RelativeToolTip": "Models\\FlowerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T13:32:30.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\GameData.cs",
+              "RelativeDocumentMoniker": "Models\\GameData.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\GameData.cs",
+              "RelativeToolTip": "Models\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:30:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlowerPackService.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerPackService.cs",
+              "RelativeDocumentMoniker": "Services\\FlowerPackService.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerPackService.cs",
+              "RelativeToolTip": "Services\\FlowerPackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:00:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlowerPack.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerPack.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerPack.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerPack.cs",
+              "RelativeToolTip": "Models\\FlowerPack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:56:58.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T14:37:45.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlowerRarity.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerRarity.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerRarity.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerRarity.cs",
+              "RelativeToolTip": "Models\\FlowerRarity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:53:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlowerPosition.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerPosition.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerPosition.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\FlowerPosition.cs",
+              "RelativeToolTip": "Models\\FlowerPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:43:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "Models\\Flower.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Models\\Flower.cs",
+              "RelativeToolTip": "Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T13:39:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T08:17:22.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VibeGardeb.csproj",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\VibeGardeb.csproj",
+              "RelativeDocumentMoniker": "VibeGardeb.csproj",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\VibeGardeb.csproj",
+              "RelativeToolTip": "VibeGardeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T19:30:24.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlowerMoneyService.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerMoneyService.cs",
+              "RelativeDocumentMoniker": "Services\\FlowerMoneyService.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerMoneyService.cs",
+              "RelativeToolTip": "Services\\FlowerMoneyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:55:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowerPackAnimationService.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerPackAnimationService.cs",
+              "RelativeDocumentMoniker": "Services\\FlowerPackAnimationService.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Services\\FlowerPackAnimationService.cs",
+              "RelativeToolTip": "Services\\FlowerPackAnimationService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:10:18.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\tigon\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\Users\\tigon\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\tigon\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\Users\\tigon\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAHwBAAAAAAAAAAArwJUBAADiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-26T15:30:07.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T18:57:47.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WidgetReceiver.cs",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\WidgetReceiver.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\WidgetReceiver.cs",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\WidgetReceiver.cs",
+              "RelativeToolTip": "Platforms\\Android\\WidgetReceiver.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:19:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-26T17:43:27.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-27T08:18:50.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-27T08:19:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAHMAAAAAAAAAAABhwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-05T10:05:54.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "garden_widget.axml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T15:48:36.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAewJsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-26T15:36:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "garden_widget.axml",
+              "DocumentMoniker": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "ToolTip": "C:\\Maui garden app\\VibeGardeb\\Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\Layout\\garden_widget.axml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T15:14:28.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
